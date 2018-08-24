@@ -1,0 +1,25 @@
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\bin\Debug\Kafiteri.exe.config
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\bin\Debug\Kafiteri.exe
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\bin\Debug\Kafiteri.pdb
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\bin\Debug\MySql.Data.DLL
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.Form1.resources
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.Form2.resources
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.Properties.Resources.resources
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.csproj.GenerateResource.Cache
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.exe
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\Kafiteri\Kafiteri\obj\Debug\Kafiteri.pdb
+E:\ \Kafiteri\Kafiteri\bin\Debug\Kafiteri.exe.config
+E:\ \Kafiteri\Kafiteri\bin\Debug\Kafiteri.exe
+E:\ \Kafiteri\Kafiteri\bin\Debug\Kafiteri.pdb
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.csprojResolveAssemblyReference.cache
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.Form1.resources
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.Form2.resources
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.Properties.Resources.resources
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.csproj.GenerateResource.Cache
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.exe
+E:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.pdb
+F:\ \Kafiteri\Kafiteri\bin\Debug\Kafiteri.exe.config
+F:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.exe
+F:\ \Kafiteri\Kafiteri\obj\Debug\Kafiteri.pdb
